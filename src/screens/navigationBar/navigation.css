@@ -1,6 +1,6 @@
-.navigation__container {
+.navigation_container {
   background-color: var(--nav-color);
-  color: white
+  color: white;
 }
 
 .navbar-light .navbar-nav .nav-link {
