@@ -65,7 +65,7 @@ function Portfolio() {
         <div className="portfolio__main__container" id="portfolio">
             <h1>PORTFOLIO</h1>
             <p>This is my Github page
-                <a href="https://github.com/https://github.com/code-weather" target="_blank" rel="noreferrer"> Github page</a>
+                <a href="https://github.com/code-weather" target="_blank" rel="noreferrer"> Github page</a>
             </p>
             <Container fluid="lg" style={{ padding: '2rem 0' }}>
                 <Row>
