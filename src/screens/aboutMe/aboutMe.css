@@ -25,6 +25,7 @@
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+  padding-right: 10rem;
 }
 
 .about_text {
