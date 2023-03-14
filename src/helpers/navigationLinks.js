@@ -1,22 +1,22 @@
 export const navigationLinks = [
   {
     name: 'HOME',
-    ref: '#home'
+    ref: '#home',
   },
   {
     name: 'ABOUT ME',
-    ref: '#about-me'
+    ref: '#about-me',
   },
   {
     name: 'TECHNOLOGIES',
-    ref: '#technologies'
+    ref: '#technologies',
   },
   {
     name: 'PORTFOLIO',
-    ref: '#portfolio'
+    ref: '#portfolio',
   },
   {
     name: 'CONTACT',
-    ref: '#contact'
+    ref: '#contact',
   },
-]
+];
