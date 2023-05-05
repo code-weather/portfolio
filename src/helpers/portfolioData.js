@@ -21,15 +21,15 @@ const portfolioData = [
   },
   {
     image: fightingGame,
-    link: 'https://basic-fighting-game.netlify.app/',
-    title: 'Fighting game',
+    link: 'https://streetsmackdown.netlify.app/',
+    title: 'Street Smackdown',
     summary: 'A mini fighting game between two rivals',
     tech: 'JavaScript | HTML | CSS',
   },
   {
     image: pinvent,
-    link: 'https://pinvent-app-frontend.vercel.app/',
-    title: 'Pinvent App',
+    link: 'https://pinvent-technologies.vercel.app/',
+    title: 'Pinvent Technologies',
     summary:
       'Developed an app to helped keep track products in real-time, reducing errors and improving efficiency.',
     tech: 'JavaScript | ReactJS | Redux | MongoDB | NodeJS | ExpressJS | SASS | CSS',
